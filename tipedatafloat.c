@@ -11,5 +11,8 @@ void main(){
     scanf("%i", &b);
 
     printf("Hasil a / b: %f\n", a / b);
+    printf("Hasil a / b: %f\n", a / b);
+    printf("Hasil a / b: %f\n", a / b);
+    printf("Hasil a / b: %f\n", a / b);
 
 }
