@@ -14,7 +14,7 @@ double integral_trapezoidal(double a, double b, int n) {
         double x = a + i * h;
         result += f(x);
     }
-    return h * result;
+    return h * result ;
 }
 
 int main() {
